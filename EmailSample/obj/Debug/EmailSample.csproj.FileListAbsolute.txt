@@ -3,3 +3,4 @@ c:\users\rahamath\documents\visual studio 2012\Projects\EmailSample\EmailSample\
 c:\users\rahamath\documents\visual studio 2012\Projects\EmailSample\EmailSample\obj\Debug\EmailSample.csprojResolveAssemblyReference.cache
 c:\users\rahamath\documents\visual studio 2012\Projects\EmailSample\EmailSample\obj\Debug\EmailSample.exe
 c:\users\rahamath\documents\visual studio 2012\Projects\EmailSample\EmailSample\obj\Debug\EmailSample.pdb
+C:\Users\RAHAMATH\Documents\Visual Studio 2012\Projects\EmailSample\EmailSample\bin\Debug\EmailSample.exe.config
